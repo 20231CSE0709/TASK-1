@@ -1,1 +1,2 @@
-# TASK-1
+ TASK-1
+Preparing raw data for machine learning by applying essential preprocessing techniques. The objective is to clean the dataset using Python tools like Pandas, NumPy, and visualization libraries such as Matplotlib or Seaborn. Key steps include identifying and handling missing values using mean, median, or imputation methods; converting categorical data into numerical form using encoding; scaling features through normalization or standardization; and detecting outliers using boxplots to remove them. The task helps build a solid foundation in data cleaning, feature transformation, and exploratory analysis, which are critical for improving model accuracy and performance.
